@@ -1,0 +1,16 @@
+# Exclude target directory and its contents
+target/
+
+# Exclude .m2 repository
+.m2/
+
+# Exclude IDE-specific files
+.idea/
+*.iml
+
+# Exclude log files
+*.log
+
+# Exclude miscellaneous files
+*.swp
+*.DS_Store
